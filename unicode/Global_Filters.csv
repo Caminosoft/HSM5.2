@@ -1,0 +1,13 @@
+Rid,Filter
+1,*.cur
+2,*.lnk
+3,*.ico
+4,*.dll
+5,*.exe
+6,*.ldb
+7,*.url
+8,*.mdb
+9,Desktop.ini
+10,Thumbs.db
+11,Hsmtgt.dat
+12,*.ini

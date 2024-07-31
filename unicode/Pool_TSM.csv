@@ -1,0 +1,3 @@
+Rid,Profile,Server,MgmtClass,Node,Owner,Pwd,OptFile,Options,UserName,UserNamePswd,ObjType
+2,tsm profile,cmsf.td.com,M,hphc,nkpr,nkpg,tdopt,test,nk,nkpd,1
+3,temp profile 2,cmsf.td2.com,,hphc2,aakpr,camino2,tdopt2,yest2,nku,nki,2
